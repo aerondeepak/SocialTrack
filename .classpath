@@ -8,5 +8,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/signpost-commonshttp4-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse Workspces/commons-codec-1.10.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
